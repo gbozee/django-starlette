@@ -1,0 +1,7 @@
+asgiref==2.3.2
+Django==2.1.2
+pytz==2018.5
+starlette==0.5.1
+uvicorn==0.3.13
+python-multipart==0.0.5
+requests==2.19.1
